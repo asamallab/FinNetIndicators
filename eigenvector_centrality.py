@@ -17,6 +17,9 @@ out_file = sys.argv[2]
 
 f = open(out_file, 'w')
 
+G = nx.read_edgelist(in_file, comments='#',data=(('metric',float),))
+G.remove_edges_from(nx.selfloop_edges(G))
+
 evc = nx.eigenvector_centrality_numpy(G,weight = 'metric')
 
 for node, value in evc.items():

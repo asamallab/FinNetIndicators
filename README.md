@@ -27,9 +27,9 @@ The following two scripts can be used to filter the cross-correlation matrices a
 
 The following scripts can be used to compute the different network measures for the filtered networks:
 1) clique_number.py : Clique number
-2) diameter_wt.py: Diameter of a weighted network
+2) diameter_wt.py : Diameter of a weighted network
 3) eigenvector_centality.py : Eigenvector centrality for all the nodes of a weighted network
-4) FormanUndirected.cpp: Forman-Ricci curvature for all the edges of a weighted/unweighted network 
+4) FormanUndirected.cpp : Forman-Ricci curvature for all the edges of a weighted/unweighted network 
 5) ga_wt: Global assortativity of a weighted network
 6) graph_measures.py : Number of edges, Average degree, Average Weighted Degree, Edge Density, Average Clustering coefficient
 7) grc_wt_undir.py : Global Reaching Centrality of a weighted network
@@ -45,10 +45,14 @@ Example Folder:
 The Example folder contains an already filtered example network which can be used to compute the different network measures.
 Details of files:
 1) example_distance.txt : Edge file with weights as distances
+
 Note that we use this edge file to compute the diameter, global reaching centrality, communication efficiency, Forman-Ricci curvature, Ollivier-Ricci curvature, Menger-Ricci and Haantjes-Ricci curvature.
+
 2) example_strength.txt : Edge file with weights as strengths
+
 Note that we use this edge file to compute the eigenvector centrality, global assortativity and average weighted degree.
 Any of the above two edge files can be used to compute clique number, average degree, edge density, average clustering coefficient and network entropy.
+
 3) example_nodes.txt : Node file
 
 The outputs of the computation of eigenvector centrality, Forman-Ricci curvature and Ollivier-Ricci curvature are also provided in the Example folder for replication.

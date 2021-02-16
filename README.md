@@ -51,6 +51,7 @@ Note that we use this edge file to compute the diameter, global reaching central
 2) example_strength.txt : Edge file with weights as strengths
 
 Note that we use this edge file to compute the eigenvector centrality, global assortativity and average weighted degree.
+
 Any of the above two edge files can be used to compute clique number, average degree, edge density, average clustering coefficient and network entropy.
 
 3) example_nodes.txt : Node file

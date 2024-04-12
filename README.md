@@ -10,11 +10,17 @@ FormanUndirected.cpp also requires an input file containing the list of nodes in
 
 These codes were written while carrying out research reported in the following manuscripts:
 =================================================================================================
-[1] A. Samal, H.K. Pharasi, S. J. Ramaia, H. Kannan, E. Saucan, J. Jost & A. Chakraborti, Network geometry and market instability, R. Soc. Open Sci. 8: 201734 (2021). <br/>
-[2] A. Samal, S. Kumar, Y. Yadav & A. Chakraborti, Network-centric indicators for fragility in global financial indices, Front. Phys. 8: 624373 (2021). <br/>
-[3] S. Venkatesan, R.P. Vivek-Ananth, R.P. Sreejith, P. Mangalapandi, A.A. Hassanali & A. Samal, Network approach towards understanding the crazing in glassy amorphous polymers, Journal of Statistical Mechanics: Theory and Experiment 043305 (2018). <br/>
-[4] A. Samal, R.P. Sreejith, J. Gu, S. Liu, E. Saucan & J. Jost, Comparative analysis of two discretizations of Ricci curvature for complex networks, Scientific Reports 8: 8650 (2018). <br/>
-[5] R.P. Sreejith, K. Mohanraj, J. Jost, E. Saucan & A. Samal, Forman curvature for complex networks, Journal of Statistical Mechanics: Theory and Experiment 063206 (2016).
+[1] A. Samal* <sup>#</sup>, H. K. Pharasi<sup>#</sup>, S. J. Ramaia, H. Kannan, E. Saucan, J. Jost, and A. Chakraborti*, [<i>Network geometry and market instability</i>](https://doi.org/10.1098/rsos.201734), R. Soc. Open Sci. 8(2): 201734 (2021).
+
+[2] A. Samal*, S. Kumar, Y. Yadav, and A. Chakraborti*, [<i>Network-centric indicators for fragility in global financial indices</i>](https://doi.org/10.3389/fphy.2020.624373), Front. Phys. 8: 624373 (2021). 
+
+[3] S. Venkatesan<sup>#</sup>, R.P. Vivek-Ananth<sup>#</sup>, R.P. Sreejith, P. Mangalapandi, A.A. Hassanali*, and A. Samal*, [<i>Network approach towards understanding the crazing in glassy amorphous polymers</i>](https://doi.org/10.1088/1742-5468/aab688), Journal of Statistical Mechanics: Theory and Experiment 2018(4):043305 (2018).
+
+[4] A. Samal<sup>#</sup>, R.P. Sreejith<sup>#</sup>, J. Gu, S. Liu, E. Saucan* & J. Jost*, [<i>Comparative analysis of two discretizations of Ricci curvature for complex networks</i>](https://doi.org/10.1038/s41598-018-27001-3), Scientific Reports 8(1):8650 (2018).
+
+[5] R.P. Sreejith, K. Mohanraj, J. Jost*, E. Saucan* & A. Samal*, [<i>Forman curvature for complex networks</i>](https://doi.org/10.1088/1742-5468/2016/06/063206), Journal of Statistical Mechanics: Theory and Experiment 2016(6):063206 (2016). 
+
+( <sup>#</sup> Equal contribution, * Corresponding authors)
 
 Please cite the above manuscripts if you use the codes in this repository for your work.
 
